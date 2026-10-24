@@ -1,41 +1,43 @@
-# 🚀 Pixel & Code — Landing Page & Cardápio Digital
-              Soluções Digitais
+# 🚀 PIXENCODE — Landing Page & Cardápio Digital
+### Soluções Digitais
 
-Landing page institucional desarrollada para **Pixel & Code**, enfocada en ofrecer soluciones digitales como menús interactivos QR y landing pages de alta conversión para restaurantes, cafeterías y negocios locales.
+Landing page institucional desenvolvida para a *PIXENCODE*, focada em oferecer soluções digitais como cardápios interativos QR e landing pages de alta conversão para restaurantes, cafeterias e negócios locais.
 
-![Pixel & Code Landing Page](https://pixelcodelanding.netlify.app/) 
-
----
-
-## 📌 Demo en vivo
-
-👉 **Sitio publicado:** [pixelcodelanding.netlify.app](https://pixelcodelanding.netlify.app/)
+👉 *[PIXENCODE Landing Page](https://pixencode.com.br)*
 
 ---
 
-## ✨ Características
+## 📌 Demonstração ao Vivo
 
-- 📱 **Diseño Responsive:** Optimizado para dispositivos móviles, tablets y computadoras.
-- ⚡ **Alta Velocidad & Rendimiento:** Estructura semántica ligera para carga ultrasrápida.
-- 🎨 **UI/UX Moderna:** Interfaz atractiva con temática dark mode, componentes interactivos y botones de llamada a la acción (CTA).
-- 📲 **Integración Directa con WhatsApp:** Botones directos para pedidos y consultas sin necesidad de descargar aplicaciones.
-- 🔄 **Despliegue Continuo (CI/CD):** Integración automatizada entre GitHub y Netlify.
+👉 *Site publicado:* [https://pixencode.com.br](https://pixencode.com.br)
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## ⚡ Características
 
-- **HTML5:** Estructura semántica.
-- **CSS3:** Estilos modernos, Flexbox/Grid y diseño responsive.
-- **Git & GitHub:** Control de versiones.
-- **Netlify:** Hosting y automatización de despliegues.
+- 📱 *Design Responsivo:* Otimizado para dispositivos móveis, tablets e computadores.
+- ⚡ *Alta Velocidade & Desempenho:* Estrutura semântica leve para carregamento ultrarrápido.
+- 🎨 *UI/UX Moderna:* Interface atraente com temática dark mode, componentes interativos e botões de chamada para ação (CTA).
+- 💬 *Integração Direta com WhatsApp:* Botões diretos para pedidos e consultas sem necessidade de baixar aplicativos.
+- 🔄 *Implantação Contínua (CI/CD):* Integração automatizada entre GitHub e Netlify.
 
 ---
 
-## 👨‍💻 Autor
+## 🛠️ Tecnologias Utilizadas
 
-Desarrollado por *J. F. Núñez* (jfnunezdev)
+- *HTML5:* Estrutura semântica.
+- *CSS3:* Estilos modernos, Flexbox/Grid e design responsivo.
+- *Git & GitHub:* Controle de versão.
+- *Netlify:* Hospedagem e automação de implantação.
 
-- *LinkedIn:* [José F. Núñez](https://www.linkedin.com/in/jos%C3%A9-f%C3%A9lix-nunez-741990437)
+---
+
+## 👤 Autor
+
+Desenvolvido por *J. F. Núñez* ([@jfnunezdev](https://github.com/jfnunezdev))
+
+- *Website:* [https://pixencode.com.br](https://pixencode.com.br)
+- *LinkedIn:* [José F. Núñez](https://www.linkedin.com/in/jos%C3%A9-f%C3%A9lix-nunez-741990432)
 - *GitHub:* [@jfnunezdev](https://github.com/jfnunezdev)
-
+- *Contato:* [contato@pixencode.com.br](mailto:contato@pixencode.com.br)
+-
